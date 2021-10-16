@@ -1,0 +1,10 @@
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\bin\Debug\Message box ulet.exe.config
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\bin\Debug\Message box ulet.exe
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\bin\Debug\Message box ulet.pdb
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message box ulet.csproj.AssemblyReference.cache
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message_box_ulet.Form1.resources
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message_box_ulet.Properties.Resources.resources
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message box ulet.csproj.GenerateResource.cache
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message box ulet.csproj.CoreCompileInputs.cache
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message box ulet.exe
+C:\Users\Chellsy\source\repos\Message box ulet\Message box ulet\obj\Debug\Message box ulet.pdb
